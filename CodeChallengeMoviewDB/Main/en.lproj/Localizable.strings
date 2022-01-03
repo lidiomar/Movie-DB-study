@@ -1,0 +1,8 @@
+"runtime" = "Runtime: %@ minutes";
+"popularity" = "Popularity: %@";
+"score" = "Score: %@";
+"releaseYear" = "Year: %@";
+"errorDetailLoading" = "An error has occurred during information detail loading.";
+"errorMovieLoading" = "An error has occurred during data loading.";
+"ok" = "ok";
+"error" = "Error";
